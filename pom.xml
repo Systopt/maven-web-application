@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.164.3.100:8081/repository/Systopt-Releases/</url>
+	      <url>http://54.242.137.65:8081/repository/Tesla-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.164.3.100:8081/repository/Systopt-Snapshot/</url>
+	      <url>http://54.242.137.65:8081/repository/Tesla-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
