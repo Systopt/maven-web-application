@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application</artifactId>
+	<artifactId>Tesla-web-application</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.2-SNAPSHOT</version>
 	
-	<name>maven-web-application</name>
+	<name>Tesla-web-application</name>
 
 	<description>Maven Web Project for Java Project</description>
 
