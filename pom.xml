@@ -5,9 +5,9 @@
 	<groupId>com.mt</groupId>
 	<artifactId>Tesla-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	
-	<name>Tesla-web-application</name>
+	<name>Tesla01-web-application</name>
 
 	<description>Maven Web Project for Java Project</description>
 
