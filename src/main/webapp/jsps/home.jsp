@@ -14,7 +14,7 @@
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
 	<br><br>
-<font color="gray" size="5"> 
+<font color="blue" size="5"> 
   The date now is: <%= new java.util.Date() %>
 </font>
 	
