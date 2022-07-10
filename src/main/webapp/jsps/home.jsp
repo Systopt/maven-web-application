@@ -9,12 +9,12 @@
 </head>
 </head>
 <body>
-<h1 align="center" style="color:blue"">Welcome to Systopt Technologies, New York,USA Office.</h1>
+<h1 align="center" style="color:blue"">Welcome to Systopt Technologies, New Jersey,USA Office.</h1>
  <span>
 <img src="images/Systopt.PNG" class="centerImage" alt="" width="400">
 </span>
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
-	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.We are  a market leader in delivering differentiated value added Home automation and Security solutions, by offering the latest technologies in the fields of CCTV ,Identity cards, Home Automation systems, Card personalization systems, Alarms and Identification and verification systems, Visitor management systems, Fire control systems, Access control systems, Customized doors & fences, and Parking system</h1>
 <hr>
 	<br><br>
 <font color="blue" size="5"> 
