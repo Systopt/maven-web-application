@@ -35,12 +35,12 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/Systopt.PNG" alt="" width="150">
+		<img src="images/Systopt.PNG" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
                 Systopt Technologies, 
 		New York, USA
-		+1 437 215 2483,
+		+1 555 6666 7777,
 		mylandmarktech@gmail.com
 		<br>
 		<a href="mailto:enquires@systopt.com">Mail to Systopt Technologies</a>
