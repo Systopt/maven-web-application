@@ -11,7 +11,7 @@
 <body>
 <h1 align="center" style="color:blue"">Welcome to Systopt Technologies, New York,USA Office.</h1>
  <span>
-<img src="images/Systopt.PNG" alt="" width="400">
+<img src="images/Systopt.PNG" alt="" width="400" class="center">
 </span>
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
