@@ -43,7 +43,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+1 437 215 2483,
 		mylandmarktech@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:enquires@systopt.com">Mail to Systopt Technologies</a>
 	</span>
 </div>
 <hr>
@@ -51,7 +51,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Systopt Technologies - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
+<p align=center><small>Copyrights 2021 by <a href="http://systopt.com/">Systopt Technologies</a> </small></p>
 
 </body>
 </html>
