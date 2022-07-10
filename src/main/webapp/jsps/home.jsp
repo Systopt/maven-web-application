@@ -11,7 +11,7 @@
 <body>
 <h1 align="center" style="color:blue"">Welcome to Systopt Technologies, New York,USA Office.</h1>
  <span>
-<img src="images/Systopt.PNG" alt="" width="250">
+<img src="images/Systopt.PNG" alt="" width="400">
 </span>
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
@@ -43,7 +43,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
                 Systopt Technologies, 
 		New York, USA
 		+1 555 6666 7777,
-		mylandmarktech@gmail.com
+		enquires@systopt.com
 		<br>
 		<a href="mailto:enquires@systopt.com">Mail to Systopt Technologies</a>
 	</span>
