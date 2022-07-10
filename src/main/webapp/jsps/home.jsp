@@ -35,7 +35,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/Systopts.PNG" alt="" width="150">
+		<img src="images/Systopt.PNG" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
                 Systopt Technologies, 
