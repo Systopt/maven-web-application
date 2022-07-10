@@ -17,6 +17,9 @@
 <font color="blue" size="5"> 
   The date now is: <%= new java.util.Date() %>
 </font>
+<span>
+<img src="images/Systopt.PNG" alt="" width="200">
+</span>
 	
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,9 +37,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	
 <hr>
 <div style="text-align: center;">
-	<span>
-		<img src="images/Systopt.PNG" alt="" width="200">
-	</span>
+
 	<span style="font-weight: bold;">
                 Systopt Technologies, 
 		New York, USA
