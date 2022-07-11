@@ -11,8 +11,8 @@
 <body>
 <h1 align="center" style="color:blue"">Welcome to Systopt Technologies, New Jersey,USA Office.</h1>
 <center><img src="images/Systopt.PNG" class="centered" alt="centered" image"" width="400"></center>
-<h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
-	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.We are  a market leader in delivering differentiated value added Home automation and Security solutions, by offering the latest technologies in the fields of CCTV ,Identity cards, Home Automation systems, Card personalization systems, Alarms and Identification and verification systems, Visitor management systems, Fire control systems, Access control systems, Customized doors & fences, and Parking system</h1>
+<h1 align="center">A global leader in consulting, technology services and digital transformation.
+	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
 	<br><br>
 <font color="blue" size="5"> 
