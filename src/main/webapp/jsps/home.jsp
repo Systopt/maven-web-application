@@ -12,7 +12,7 @@
 <h1 align="center" style="color:blue"">Welcome to Systopt Technologies, New Jersey,USA Office.</h1>
 <center><img src="images/Systopt.PNG" class="centered" alt="centered" image"" width="400"></center>
 <h1 align="center">A global leader in consulting, technology services and digital transformation.
-	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+	We  offers the latest in mobile and cloud technology to aid its clients’ successful startup launch or expansion through enterprise software development, product engineering, and digital transformation solutions.</h1>
 <hr>
 	<br><br>
 <font color="blue" size="5"> 
