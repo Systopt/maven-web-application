@@ -1,0 +1,30 @@
+node{
+def mavenHome = tool name:'maven_3.8.6'   
+stage('1cloneCode'){
+   // sh "echo running a software build and deployment project for payPal"
+    git "https://github.com/Systopt/maven-web-application"
+ } 
+stage('2Test&Build'){
+    sh "${mavenHome}/bin/mvn install"
+ }
+ /*
+stage('3Build'){
+        //sh "${mavenHome}/bin/mvn sonar:sonar
+    }
+stage('4CodeQuality'){
+        sh "${mavenHome}/bin/mvn deploy"
+    } 
+stage('5deploy_uat'){
+  //sh "scp"
+    deploy adapters: [tomcat9(credentialsId: 'Tomcat_key', path: '', url: 'http://54.197.12.136:8080/')], contextPath: null, war: 'target/*war'
+    }
+stage('6Approval'){
+    timeout(time:9, unit:'HOURS'){
+    input message: 'Application ready for deployment, Please review and approve'
+       } 
+}
+ stage('7deploy_prod'){}
+ stage('8Notification'){}
+} 
+*/
+}
