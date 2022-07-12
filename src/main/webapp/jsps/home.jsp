@@ -9,16 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center" style="color:blue"">Welcome to Systopt Technologies, New Jersey,USA Office.</h1>
-<center><img src="images/Systopt.PNG" class="centered" alt="centered" image"" width="400"></center>
-<h1 align="center">A global leader in Agile transformation,and enterprise DevOps transformation through CI/CD automation startup launch or expansion through enterprise software development, product management, and digital transformation solutions.</h1>
+<h1 align="center">Welcome to Landmark Technologies.</h1>
+<h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
+	           We are raising over 1m millionaires by 2030.
+	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
-	<br><br>
-<font color="blue" size="5"> 
-  The date now is: <%= new java.util.Date() %>
-</font>
-
-	
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
 
@@ -35,22 +30,24 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	
 <hr>
 <div style="text-align: center;">
-
+	<span>
+		<img src="images/mylandmarklogo.png" alt="" width="150">
+	</span>
 	<span style="font-weight: bold;">
-                Systopt Technologies, 
-		New York, USA
-		+1 555 6666 7777,
-		enquires@systopt.com
+                Landmark Technology, 
+		Toronto, Ontario, Canada
+		+1 437 215 2483,
+		mylandmarktech@gmail.com
 		<br>
-		<a href="mailto:enquires@systopt.com">Mail to Systopt Technologies</a>
+		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Systopt Technologies - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://systopt.com/">Systopt Technologies</a> </small></p>
+<p align=center>Landmark Technologies - Consultant, Training and Software Development</p>
+<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
 
 </body>
 </html>
