@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center" style="color:blue"">Welcome to Systopt Technologies, Houston, Texas , USA.</h1>
+<h1 align="center" style="color:blue"">Welcome to Systopt Technologies, Houston,Texas, USA.</h1>
 <center><img src="images/Systopt.PNG" class="centered" alt="centered" image"" width="400"></center>
 <h1 align="center">A global leader in Agile transformation,and enterprise DevOps transformation through CI/CD automation startup launch or expansion through enterprise software development, product management, and digital transformation solutions.</h1>
 <hr>
